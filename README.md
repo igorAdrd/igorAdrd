@@ -3,9 +3,9 @@
 <img align="right" alt="Igor-Js" height="180" width="240"
 src="https://github.com/igorAdrd/igorAdrd/blob/c4ae770308ff7a92f88372150b23d46659d35212/flat,1000x1000,075,f.jpg" border=0>
 - 📊 - Atualmente estou estudando Python,HTML e CSS<br>
-- 💀 - Hacker Etico<br>
+- 💀 - Hacker Ético<br>
 - 🐞 - Bug Hunter<br> 
-- 🏃‍♂️ - Meu objetivo é ingressar na area de Cyber Segurança <br>
+- 🏃‍♂️ - Meu objetivo é colabora com a area de Cyber Segurança <br>
 - ✨ - Aceito dicas e criticas construtivas <br>
 - 🤔 - Pronomes: Ele/Dele<br> 
   <br>
