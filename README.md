@@ -32,7 +32,7 @@
   <img align="center" alt="Igor-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </div>
 
-<img align="center" alt="Igor-Js" height="30" width="40" src="https://github.com/igorAdrd/igorAdrd/blob/21004063.jpg"/>
+<img align="center" alt="Igor-Js" height="30" width="40" src="https://github.com/igorAdrd/igorAdrd/blob/9727204ddf35421e7463241be4ec51899f82cf3b/flat,1000x1000,075,f.jpg"/>
  
   
 ![Snake animation](https://github.com/igorAdrd/igorAdrd/blob/output/github-contribution-grid-snake.svg)
