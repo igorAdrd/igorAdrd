@@ -11,9 +11,7 @@
 <div>
   <a href = "mailto:github+andradeir14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-rafael-andrade-635a03231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/igorAdrd/igorAdrd/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
 
 
@@ -34,4 +32,8 @@
   <img align="center" alt="Igor-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </div>
 
-<img src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=hacker%20icon&position=12&from_view=search">
+<img align="center" alt="Igor-Js" height="30" width="40" src="https://github.com/igorAdrd/igorAdrd/blob/b024769e83cc183decbb0988828dfcf430813c98/flat,1000x1000,075,f.jpg"/>
+ 
+  
+![Snake animation](https://github.com/igorAdrd/igorAdrd/blob/output/github-contribution-grid-snake.svg)
+
