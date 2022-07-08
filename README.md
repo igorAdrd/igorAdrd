@@ -30,7 +30,7 @@ src="https://github.com/igorAdrd/igorAdrd/blob/c4ae770308ff7a92f88372150b23d4665
 <div>
   <a align="center" href="https://github-readme-stats.vercel.app">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorAdrd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>    
-  <img align="center" width="120em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAdrd&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorAdrd&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   
