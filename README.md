@@ -5,7 +5,7 @@ src="https://github.com/igorAdrd/igorAdrd/blob/c4ae770308ff7a92f88372150b23d4665
 - 📊 - Atualmente estou estudando Python,HTML e CSS<br>
 - 💀 - Hacker Ético<br>
 - 🐞 - Bug Hunter<br> 
-- 🏃‍♂️ - Meu objetivo é colabora com a area de Cyber Segurança <br>
+- 🏃‍♂️ - Iniciando no mundo da programação <br>
 - ✨ - Aceito dicas e criticas construtivas <br>
 - 🤔 - Pronomes: Ele/Dele<br> 
   <br>
