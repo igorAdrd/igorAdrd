@@ -1,4 +1,4 @@
-## Olá, me Chamo Igor Rafael ! 
+## Salve, me chamo Igor Rafael ! 
 <div style="display: inline_block">
 <img align="right" alt="Igor-Js" height="180" width="240"
 src="https://github.com/igorAdrd/igorAdrd/blob/c4ae770308ff7a92f88372150b23d46659d35212/flat,1000x1000,075,f.jpg" border=0>
