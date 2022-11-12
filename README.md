@@ -2,11 +2,11 @@
 <div style="display: inline_block">
 <img align="right" alt="Igor-Js" height="180" width="240"
 src="https://github.com/igorAdrd/igorAdrd/blob/c4ae770308ff7a92f88372150b23d46659d35212/flat,1000x1000,075,f.jpg" border=0>
-- 📊 - Atualmente estou estudando Python,HTML e CSS<br>
+- 📊 - Atualmente estou estudando Python e P<br>
 - 💀 - Hacker Ético<br>
-- 🐞 - Bug Hunter<br> 
+- 🐞 - Jogador de CTF<br> 
 - ✨ - Aceito dicas e criticas construtivas <br>
-- 🤔 - Pronomes: Ele/Dele<br> 
+
   <br>
   <img alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
